@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.151" height="25.446" viewBox="0 0 35.151 25.446">
+  <g id="Group_838" data-name="Group 838" transform="translate(-33 -596)">
+    <g id="Card_Cancel" data-name="Card Cancel" transform="translate(31 590)">
+      <rect id="Rectangle_451" data-name="Rectangle 451" width="26" height="18" rx="3" transform="translate(2 6)" fill="#fac1bd"/>
+      <path id="Path_1179" data-name="Path 1179" d="M0,0H26V3H0Z" transform="translate(2 10)" fill="#d75858"/>
+      <path id="Path_1177" data-name="Path 1177" d="M10,20H7a1,1,0,0,1,0-2h3a1,1,0,0,1,0,2Z" fill="#d75858"/>
+    </g>
+    <path id="Path_161" data-name="Path 161" d="M7.24,3c4,0,7.24,1.173,7.24,5.171A7.24,7.24,0,0,1,0,8.171C0,4.173,3.241,3,7.24,3Z" transform="translate(51.604 603.363)" fill="#f7f7f7"/>
+    <g id="cancel" transform="translate(51 604.295)">
+      <g id="Group_17" data-name="Group 17" transform="translate(0)">
+        <path id="Path_122" data-name="Path 122" d="M14.642,2.514a8.575,8.575,0,1,0,0,12.134A8.589,8.589,0,0,0,14.642,2.514Zm-2.528,8.595A.715.715,0,1,1,11.1,12.119L8.576,9.591,6.049,12.119a.715.715,0,1,1-1.011-1.011L7.565,8.58,5.038,6.053A.715.715,0,0,1,6.048,5.042L8.576,7.569,11.1,5.042a.715.715,0,1,1,1.011,1.011L9.587,8.58Z" transform="translate(0 -0.005)" fill="#d75858"/>
+      </g>
+    </g>
+  </g>
+</svg>

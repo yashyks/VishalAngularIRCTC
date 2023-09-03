@@ -1,0 +1,36 @@
+.main-container {
+  width: 400px;
+  margin: auto;
+}
+
+.container {
+  button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    color: white;
+    background-color: rgb(50, 106, 187);
+    font-size: 18px;
+    width: 40%;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0px auto 15px;
+    cursor: pointer;
+  }
+}
+
+.text-action {
+  width: 95%;
+  display: flex;
+}
+
+.text-content {
+  margin-left: 1rem;
+}
+
+.icon {
+  margin-left: 10rem;
+  margin-top: 1rem;
+}
+

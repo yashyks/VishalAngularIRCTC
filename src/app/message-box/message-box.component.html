@@ -1,0 +1,21 @@
+<main class="chat-window">
+<section class="chat-session">
+    <ul class="message-list">
+        <li class="user-message"
+            [ngClass]="{'left-message': message?.['origin'] != 'me', 'right-message': message?.['origin'] == 'me'}"
+            *ngFor="let message of messages">
+            <span>{{ message.text }}</span>
+        </li>
+    </ul>
+</section>
+</main>
+<form (ngSubmit)="sendMessage()">
+    <!-- <label for="message">Enter your message:</label> -->
+    <input type="text" id="message" name="message" [(ngModel)]="message" placeholder="Type your message here" (input)="onInputChange($event)">
+    <!-- <button type="submit">Send</button> -->
+    <button mat-icon-button class="example-icon">
+        <!-- <mat-icon>Send</mat-icon> -->
+        <mat-icon class="send-icon">send</mat-icon>
+
+    </button>
+</form>

@@ -1,0 +1,24 @@
+.main-wrapper {
+    // width: 30%;
+    width: 400px;
+    max-height: 800px;
+    margin: auto;
+    display: grid;
+    border: 2px solid black;
+    // background-image: url('../assets/background.png') no-repeat center center fixed;
+
+}
+// .app-content {
+//     overflow-y: auto;
+//     max-height: 500px;
+// }
+
+// .app-content {
+//     border: 3px solid black;
+// }
+
+.profile-container {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    max-height: 500px;
+  }
